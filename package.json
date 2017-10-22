@@ -21,6 +21,7 @@
     "@angular/platform-browser": "^4.2.4",
     "@angular/platform-browser-dynamic": "^4.2.4",
     "@angular/router": "^4.2.4",
+    "bootstrap": "^3.3.7",
     "core-js": "^2.4.1",
     "rxjs": "^5.4.2",
     "zone.js": "^0.8.14"
@@ -45,5 +46,16 @@
     "ts-node": "~3.2.0",
     "tslint": "~5.7.0",
     "typescript": "~2.3.3"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LearningRbcRegistry/sitePersoAntoine.git"
+  },
+  "author": "antoine bour",
+  "bugs": {
+    "url": "https://github.com/LearningRbcRegistry/sitePersoAntoine/issues"
+  },
+  "homepage": "https://github.com/LearningRbcRegistry/sitePersoAntoine#readme"
 }

@@ -1,1 +1,35 @@
 /* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootstrap/dist/css/bootstrap.css";
+
+@media (min-width: 768px ) {
+  .row {
+    position: relative;
+    align-content: center;
+  }
+
+  .bottom-align-text {
+    position: absolute;
+    bottom: 0;
+    width:95%;
+    align-content: center;
+    text-align: center;
+    /*background-color: pink;*/
+  }
+
+  .container-fluid {
+    width: 1600px;
+    height: 1200px;
+    border-radius: 15px;
+    border-color: cornflowerblue;
+    box-shadow: 0 0 5px 5px cornflowerblue;
+    /*background-color: green;*/
+  }
+
+  .line-separator{
+    height:1px;
+    background:#717171;
+    border-bottom:1px solid #313030;
+  }
+
+
+}

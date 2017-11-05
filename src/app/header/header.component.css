@@ -1,0 +1,11 @@
+.headeralign{
+  text-align: center;
+  align-content: center;
+  overflow: hidden;
+}
+
+.header{
+  height: 5%;
+  font-family: "Comic Sans MS";
+  color: cornflowerblue;
+}
